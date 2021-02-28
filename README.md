@@ -1,4 +1,4 @@
-# WineQuality
+# Wine Quality
 This project was created in 2021 spring semester for AIT Deep Learning course.
 The only author is Ágoston István Csehi.
 
