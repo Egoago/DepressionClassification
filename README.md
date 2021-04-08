@@ -7,8 +7,8 @@ My goal is to predict the position of the eyes of a person on an image.
 
 ## Data
 The dataset was retrieved from [here](https://gazecapture.csail.mit.edu/).
-The Gaze capture datase consist of 1,490,959 frames taken of over 1450 people
-labeled by metadata such as left eye x coordinate measured by IPhone devices.
+The Gaze capture datase consists of 1,490,959 frames taken of over 1450 people
+with labeled by metadata, such as left eye x coordinate, measured by IPhone devices.
 For this project I use only a 2GB subset of this data, containing only 40 people,
 otherwise it would use up nearly 150GB.
 
